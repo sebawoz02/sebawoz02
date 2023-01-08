@@ -3,3 +3,5 @@
 
 👀 I’m interested in computer science, math and moreover I like drawing and listening to music.
 🌱 I’m currently learning data science with python and SQL.
+
+📧 email: sebastianwoz02@gmail.com or sebawoz2002@gmail.com
