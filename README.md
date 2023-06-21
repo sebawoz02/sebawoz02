@@ -1,7 +1,7 @@
 
 👋 Hi, my name is Sebastian and i'm a second year student at the Wroclaw University of Science and Technology. 
 
-💼 I work as a C Embedded Junior Engineer.
+💼 I work as a Junior C Embedded Software Developer.
 
 🎓 My field of study is algorithmic IT.
 
