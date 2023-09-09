@@ -1,5 +1,5 @@
 
-👋 Hi, my name is Sebastian and i'm a second year student at the Wroclaw University of Science and Technology. 
+👋 Hi, my name is Sebastian and i'm a third year student at the Wroclaw University of Science and Technology. 
 
 💼 I work as a Junior C Embedded Software Developer.
 
