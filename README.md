@@ -10,11 +10,11 @@
   </a> 
 </p>
 
-👋 Hi, my name is Sebastian and I'm a third year student at the Wroclaw University of Science and Technology. 
+👋 Hi, my name is Sebastian and I'm a 4th year student at the Wroclaw University of Science and Technology. 
 
 💼 I work as a Junior C Embedded Software Developer.
 
-🎓 My field of study is algorithmic IT.
+🎓 I have an engineering degree in algorithmic computer science. I am currently studying computer automation systems
 
 👀 I’m interested in data science, math and optimization.
 🌱 I’m currently learning about the compilation process, integrated circuits and also about 5G.
