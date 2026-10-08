@@ -10,9 +10,8 @@
   </a> 
 </p>
 
-👋 Hi, my name is Sebastian and I'm a 4th year student at the Wroclaw University of Science and Technology. 
 
-💼 I work as a Junior C Embedded Software Developer.
+💼 I work as a C Embedded Software Developer.
 
 🎓 I have an engineering degree in algorithmic computer science. I am currently studying computer automation systems
 
